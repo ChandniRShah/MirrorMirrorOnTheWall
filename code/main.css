@@ -1,0 +1,47 @@
+body{
+    background-color: #000000;
+    
+}
+*{
+    font-family:Verdana;
+    color:#ffffff;
+    font-size:16px;
+    padding-left:8px;
+}
+.dateTime{
+    font-size:18px !important;
+    color:#0099e6;
+}
+.temperatueDiv{
+    text-align:center;
+}
+.mainTemperature{
+    font-size:32px !important;
+    color:#0099e6;
+    font-weight: bold;
+}
+.otherTemperature{
+    font-size:18px !important;
+    color:#0099e6;
+    font-weight: bold;
+}
+.Verdict{
+    font-size:26px !important;
+    color:#0099e6;
+    font-weight: normal;
+}
+
+.upperLowerDiv{
+    height:40%;
+}
+.line{
+    height:1px;
+    border:none; 
+    color:#0099e6; 
+    background-color:#0099e6;
+}
+.Quote i{
+    font-size:22px !important;
+    color:#0099e6;
+    
+}
